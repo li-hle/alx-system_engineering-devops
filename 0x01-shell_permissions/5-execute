@@ -1,0 +1,3 @@
+#!bin/bash
+chowd u+x hello
+
